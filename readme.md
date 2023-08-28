@@ -13,14 +13,14 @@ A simple and elegant iPhone-style calculator built using Python's tkinter librar
 ## Installation and Usage
 
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+   https://github.com/MatinMollapur01/claculator_app_matinmollapur.git
 
 
-2. Navigate to the cloned directory:
+3. Navigate to the cloned directory:
 cd claculator_app_matinmollapur
 
 
-3. Run the calculator:
+4. Run the calculator:
 python GUI.py
 
 
